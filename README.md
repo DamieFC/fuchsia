@@ -1,5 +1,7 @@
 # Fuchsia
 
+![](/scripts/scrutiny/static/img/logo.png)
+
 Pink + Purple == Fuchsia (a new operating system)
 
 ## What is Fuchsia?
