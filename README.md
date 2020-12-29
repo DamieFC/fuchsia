@@ -1,6 +1,6 @@
 # Fuchsia
 
-![](/s1024px-Google_Fuchsia_Logo.svg.png)
+<!-- ![](s1024px-Google_Fuchsia_Logo.svg.png) -->
 
 Pink + Purple == Fuchsia (a new operating system)
 
